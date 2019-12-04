@@ -1,0 +1,13 @@
+
+package soccerleague;
+public class Team {
+    private double WinTotal;
+    private double LossTotal;
+    private double TieTotal;
+    private double TotalGoalsScored;
+    private double TotalGoalsAllowed;
+   
+    
+    
+    
+}
